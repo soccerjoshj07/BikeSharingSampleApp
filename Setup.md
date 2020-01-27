@@ -1,5 +1,7 @@
 # Commands
 
+URL: https://docs.microsoft.com/en-us/azure/dev-spaces/quickstart-team-development
+
 ```bash
 # create aks cluster
 az group create --name az-dev-spaces-rg --location eastus
